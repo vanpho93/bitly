@@ -5,3 +5,5 @@
     - Tất cả các người dùng online nhận được notification về link mới được gen
     - Với các link đã được người dùng khác tạo, thì không tạo link mới, chỉ gắn thêm user vào link
     - Tự động xoá các link 1 tuần ko có truy cập
+
+2. Demo: https://myslink.herokuapp.com
