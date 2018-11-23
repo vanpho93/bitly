@@ -1,0 +1,6 @@
+export const ADD_LINK_ERROR = 'ADD_LINK_ERROR';
+export const START_ADD_LINK = 'START_ADD_LINK';
+export const ADD_LINK = 'ADD_LINK';
+export const SET_LINKS = 'SET_LINKS';
+export const ADD_NOTIFICATION = 'ADD_NOTIFICATION';
+export const REMOVE_NOTIFICATION = 'REMOVE_NOTIFICATION';
